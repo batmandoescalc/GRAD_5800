@@ -149,6 +149,6 @@ Outline proactive steps to address the identified risks. Suggest approaches for 
 - Project Deployment and Timeline (10%)
 - Risk Mitigation (5%)
 
-Note: This design document should be detailed enough to guide implementation but flexible enough to accommodate changes as the project evolves.
+**Note**: This design document should be detailed enough to guide implementation but flexible enough to accommodate changes as the project evolves.
 
-Your HLD document must be submitted no later than Monday, May 19th, at 4:00 pm.   This is a group submission so only one document is required for each team.
+This is a group submission so only one document is required for each team.
